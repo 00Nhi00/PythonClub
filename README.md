@@ -1,2 +1,2 @@
 # TechReviewS2022
-Django project for for IT112
+Django project for IT112
