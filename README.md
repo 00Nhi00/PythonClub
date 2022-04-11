@@ -1,2 +1,2 @@
-# TechReviewS2022
+# PythonClub
 Django project for IT112
